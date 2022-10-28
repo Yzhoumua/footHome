@@ -1,0 +1,93 @@
+{
+  "id": "3461847",
+  "name": "16",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1183",
+      "name": "系统推送",
+      "font_class": "xitongtuisong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "586730",
+      "name": "anchor",
+      "font_class": "anchor",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "902059",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1305047",
+      "name": "网络",
+      "font_class": "wangluo",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1305481",
+      "name": "微笑",
+      "font_class": "weixiao",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "1400851",
+      "name": "顶部",
+      "font_class": "dingbu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2465639",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e8e4",
+      "unicode_decimal": 59620
+    },
+    {
+      "icon_id": "5388066",
+      "name": "邮件_o",
+      "font_class": "youjian_o",
+      "unicode": "ebca",
+      "unicode_decimal": 60362
+    },
+    {
+      "icon_id": "6380878",
+      "name": "点赞_块",
+      "font_class": "dianzan_kuai",
+      "unicode": "ec8c",
+      "unicode_decimal": 60556
+    },
+    {
+      "icon_id": "11372759",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "26847441",
+      "name": "谷歌",
+      "font_class": "Google",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
